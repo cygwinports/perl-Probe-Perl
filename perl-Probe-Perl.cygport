@@ -1,0 +1,10 @@
+CPAN_AUTHOR=kwilliams
+inherit perl
+
+NAME="perl-Probe-Perl"
+VERSION=0.03
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl interpreter information module"
+DESCRIPTION="This module provides methods for obtaining information about the
+currently running perl interpreter."
